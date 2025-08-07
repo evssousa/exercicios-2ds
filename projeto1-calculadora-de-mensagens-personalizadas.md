@@ -58,11 +58,11 @@ Ano de nascimento: 1992
 Cidade: Fortaleza
 Profissão: Thanatólogo Operacional
 
-Salário base: U$384,323.78
-Bônus: U$50,000.48
-Total mensal: U$434,324.26
-Total ano: U$5,211,891.12
-Total anual (salário dobrado): U$10,423,782.24
+Salário base: U$384323
+Bônus: U$50000
+Total mensal: U$434324
+Total ano: U$5211891
+Total anual (salário dobrado): U$10423782
 =========================================
 ```
 
