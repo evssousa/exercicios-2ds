@@ -3,6 +3,9 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Complete o exercício no tempo estimado.
 
+Atividades para Praticar:
+- Estrutura Sequêncial: <a href="https://www.notion.so/AULA-18-1-ATIVIDADES-DE-ESTRUTURA-SEQUENCIAL-PARTE-1-24eaa6380ac780f5b933c0df79d64c23?source=copy_link" target="_blank">clique aqui</a>
+
 Boas práticas!
 
 # 3º BIMESTRE
