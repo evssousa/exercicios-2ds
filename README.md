@@ -9,7 +9,5 @@ Atividades para Praticar:
 Boas práticas!
 
 # 3º BIMESTRE
-Avaliações Bimestrais: -
-### 💻 Lógica de Programação 
-Projeto Pessoal: aguarde...
-- ⚠️ [ABERTO] - Projeto 1: Calculadora de mensagens personalizadas (07/ago | Prazo máximo: 13/ago)
+- Apresentação do Projeto Pessoal: 23/set e 25/set
+- Avaliações Bimestrais: 24/set
