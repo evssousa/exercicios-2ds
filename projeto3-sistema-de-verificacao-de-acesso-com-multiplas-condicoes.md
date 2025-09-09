@@ -1,6 +1,7 @@
 PROFESSOR: Everson Sousa | TURMA: 1º EM DESENVOLVIMENTO DE SISTEMAS
 
 DATA DE ENTREGA: 28/ago | Prazo Máximo: 03/set
+PRÓXIMA CORREÇÃO: 15/set
 
 ---
 
