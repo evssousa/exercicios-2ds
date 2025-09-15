@@ -10,7 +10,7 @@ Atividades para Praticar:
 Boas práticas!
 
 # 3º BIMESTRE
-- Apresentação do Projeto Pessoal: 23/set e 25/set
+- Apresentação do Projeto Pessoal: 25/set
 - Avaliações Bimestrais: 24/set
 
 ## Conteúdos para estudar para a prova:
