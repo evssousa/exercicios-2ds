@@ -1,6 +1,7 @@
 PROFESSOR: Everson Sousa | TURMA: 1º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 09/set | Prazo Máximo: 15/set
+DATA DE ENTREGA: 09/set | Prazo Máximo: 15/set<br>
+PRÓXIMA CORREÇÃO: 24/set
 
 # PROJETO 4 – CARDÁPIO DIGITAL
 
