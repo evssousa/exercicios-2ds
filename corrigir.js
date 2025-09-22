@@ -2,16 +2,13 @@ const axios = require('axios');
 const fs = require('fs');
 const alunos = require('./alunos.json');
 
-// 🔐 Token pessoal do GitHub
-const token = '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';
-
 // 🧪 Lista de exercícios (nomes dos jobs no GitHub Actions)
 const exercicios = ['ex01-ola-mundo', 'ex02-variaveis'];
 
 async function verificar(repo, exercicio) {
   try {
     const res = await axios.get(`https://api.github.com/repos/${repo}/actions/runs?per_page=50`, {
-      headers: { Authorization: `Bearer ${token}` }
+      headers: { 'User-Agent': 'Node.js' }
     });
 
     const execucoes = res.data.workflow_runs.filter(run =>
