@@ -2,12 +2,6 @@ const axios = require('axios');
 const fs = require('fs');
 const alunos = require('./alunos.json');
 
-<<<<<<< HEAD
-=======
-// 🔐 Token pessoal do GitHub
-const token = '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';
-
->>>>>>> b6525152629acb3c979eb1610c7c273ed5613331
 // 🧪 Lista de exercícios (nomes dos jobs no GitHub Actions)
 const exercicios = ['ex01-ola-mundo', 'ex02-variaveis'];
 
