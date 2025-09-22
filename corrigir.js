@@ -3,7 +3,7 @@ const fs = require('fs');
 const alunos = require('./alunos.json');
 
 // 🔐 Token pessoal do GitHub
-const token = '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';
+const token = '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';
 
 // 🧪 Lista de exercícios (nomes dos jobs no GitHub Actions)
 const exercicios = ['ex01-ola-mundo', 'ex02-variaveis'];
