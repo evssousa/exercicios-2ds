@@ -6,7 +6,7 @@ on:
 
 jobs:
   test-ex01:
-    name: Teste ex01
+    name: ex01-ola-mundo
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -17,7 +17,7 @@ jobs:
       - run: npm test
 
   test-ex02:
-    name: Teste ex02
+    name: ex02-variaveis
     runs-on: ubuntu-latest
     defaults:
       run:
