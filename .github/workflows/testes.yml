@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  test-ex01:
+  ex01-ola-mundo:
     name: ex01-ola-mundo
     runs-on: ubuntu-latest
     defaults:
@@ -16,7 +16,7 @@ jobs:
       - run: npm install
       - run: npm test
 
-  test-ex02:
+  ex02-variaveis:
     name: ex02-variaveis
     runs-on: ubuntu-latest
     defaults:
