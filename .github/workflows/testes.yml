@@ -1,0 +1,28 @@
+name: Testes por exercício
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  test-ex01:
+    name: Teste ex01
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ex01-ola-mundo
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  test-ex02:
+    name: Teste ex02
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ex02-variaveis
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
