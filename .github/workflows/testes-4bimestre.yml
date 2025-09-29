@@ -1,0 +1,17 @@
+name: Exercícios 4º bimestre
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ex01-ola-mundo:
+    name: ex01-ola-mundo
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 3-bimestre/ex01-ola-mundo
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
