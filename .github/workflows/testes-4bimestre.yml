@@ -26,3 +26,14 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  ex03-loop-for:
+    name: ex03-loop-for
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/ex03-loop-for
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
