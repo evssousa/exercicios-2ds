@@ -1,5 +1,5 @@
 function olaMundo() {
-    return // crie aqui seu código
+    return "Olá mundo"
 }
 
 module.exports = olaMundo
