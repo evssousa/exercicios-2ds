@@ -1,7 +1,7 @@
 # Exercícios para os Alunos
 Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.
 
-Link da aula de hoje: <a href="https://meet.google.com/jcw-knms-csy" target="_blank">CLIQUE AQUI</a>
+Link da aula de hoje: <a href="https://meet.google.com/gtq-fvcz-xnw" target="_blank">CLIQUE AQUI</a>
 
 Complete o exercício no tempo estimado.
 
