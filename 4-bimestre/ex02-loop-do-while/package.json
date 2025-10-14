@@ -1,5 +1,5 @@
 {
-  "name": "exercicios-1ds",
+  "name": "ex02-loop-do-while",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^30.1.3"
+    "jest": "^30.1.3",
+    "prompt-sync": "^4.2.0"
   }
 }
