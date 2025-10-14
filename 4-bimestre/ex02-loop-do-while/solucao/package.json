@@ -1,0 +1,19 @@
+{
+  "name": "ex02-loop-do-while",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^30.1.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
