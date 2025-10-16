@@ -1,0 +1,17 @@
+name: Correção dos Projetos
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  projeto5-sistema-de-controle-de-producao:
+    name: projeto5-sistema-de-controle-de-producao
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/projetos/projeto5-sistema-de-controle-de-producao
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
