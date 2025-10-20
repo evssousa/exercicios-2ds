@@ -26,12 +26,6 @@ Desenvolver um programa que:
         - “Meta alcançada!” se atingiu a quantidade planejada.
         - “Meta não alcançada.” caso contrário.
 
-O programa deve usar:
-
-- **`while`** para o controle de produção.
-- **`do...while`** para confirmar se o usuário quer continuar simulando outro turno.
-- **`for`** para exibir um resumo dos dias de produção anteriores (simulado com contador interno).
-
 ---
 
 ## 🧠 Regras Técnicas
