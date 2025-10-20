@@ -37,3 +37,36 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  ex04-array:
+    name: ex04-array
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/ex04-array
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex05-operacao-array:
+    name: ex05-operacao-array
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/ex05-operacao-array
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex06-loop-array:
+    name: ex06-loop-array
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/ex06-loop-array
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
