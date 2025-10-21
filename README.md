@@ -3,6 +3,8 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Link da aula de hoje: <a href="https://meet.google.com/gtq-fvcz-xnw" target="_blank">CLIQUE AQUI</a>
 
+<a href="https://www.linkedin.com/company/github-brazil/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgx0HwK3EQGeTWfEMuqP5Uw%3D%3D">Certificação do Github Fundations</a>
+
 Complete o exercício no tempo estimado.
 
 Atividades para Praticar:
