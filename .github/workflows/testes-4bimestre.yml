@@ -92,3 +92,25 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  ex09-criando-um-objeto:
+    name: ex09-criando-um-objeto
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/ex09-criando-um-objeto
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex10-acessando-e-alterando-obj:
+    name: ex10-acessando-e-alterando-obj
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/ex10-acessando-e-alterando-obj
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
