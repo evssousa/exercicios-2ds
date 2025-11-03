@@ -13,4 +13,12 @@ Atividades para Praticar:
 
 🐝 <a href="https://judge.beecrowd.com/pt/login" target="_blank">ACESSE AQUI O BEECROWD</a>
 
+---
+
+# PROJETO PESSOAL 4º BIMESTRE
+## Lógica de Programação
+Refatorar ou desenvolver um sistema que resolva algum tipo de problema. O sistema deve rodar no terminal.
+- Previsão: 02 de dezembro
+- Formato: individual
+
 Boas práticas!!
