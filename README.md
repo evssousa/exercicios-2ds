@@ -15,7 +15,7 @@ Atividades para Praticar:
 
 🐝 <a href="https://judge.beecrowd.com/pt/login" target="_blank">ACESSE AQUI O BEECROWD</a>
 
-<b>IA do DS:</b> Utilize a IA do DS para estudar e tirar suas dúvidas: <a href="https://profcodequest.lovable.app" target="_blank">CLIQUE AQUI</a>
+<b>IA do DS:</b> Utilize a IA do DS para estudar e tirar suas dúvidas: <a href="https://profdev.vercel.app/" target="_blank">CLIQUE AQUI</a>
 
 ---
 
