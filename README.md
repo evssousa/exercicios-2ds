@@ -25,4 +25,23 @@ Refatorar ou desenvolver um sistema que resolva algum tipo de problema. O sistem
 - Previsão: 02 de dezembro
 - Formato: individual
 
+### Conteúdo para provas bimestrais
+O LOOP WHILE<br>
+O LOOP FOR<br>
+INTRODUÇÃO A ARRAY E OPERAÇÕES BÁSICAS DE ARRAY<br>
+OPERAÇÕES BÁSICAS DE ARRAY<br>
+DANDO LOOP EM ARRAYS<br>
+ORDENAÇÃO DE ARRAY<br>
+ITERAÇÃO DE ARRAY<br>
+O QUE SÃO OBJETOS<br>
+ACESSANDO E ALTERANDO OBJETOS<br>
+INTRODUÇÃO A FUNÇÕES E DECLARANDO UMA FUNÇÃO
+COMO USAR UMA FUNÇÃO<br>
+PASSANDO PARAMETROS EM FUNÇÕES
+RETORNO DA FUNÇÃO<br>
+FUNÇÃO COM RETORNO CONDICIONAL<br>
+ARROW FUNCTION<br>
+VARIÁVEIS DENTRO DE FUNÇÕES<br>
+FUNÇÕES DENTRO DE FUNÇÕES<br>
+
 Boas práticas!!
