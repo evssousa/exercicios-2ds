@@ -3,6 +3,8 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Link das Salas: <a href="https://meet.google.com/cbk-trzb-svk" target="_blank">SALA 1</a> | <a href="https://meet.google.com/scv-wbku-jsa" target="_blank">SALA 2</a> | <a href="#" target="_blank">SALA 3</a>
 
+☠️ **Link para conteúdos da recuperação final 2025. [CLIQUE AQUI](https://www.notion.so/logicajseeep/L-gica-de-Programa-o-246aa6380ac78019b83de84c260823b3?source=copy_link).**
+
 <a href="https://www.linkedin.com/company/github-brazil/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgx0HwK3EQGeTWfEMuqP5Uw%3D%3D">Certificação do Github Fundations</a>
 
 Complete o exercício no tempo estimado.
@@ -18,30 +20,5 @@ Atividades para Praticar:
 <b>IA do DS:</b> Utilize a IA do DS para estudar e tirar suas dúvidas: <a href="https://profdev.vercel.app/" target="_blank">CLIQUE AQUI</a>
 
 ---
-
-## PROJETO PESSOAL 4º BIMESTRE
-### Lógica de Programação
-Refatorar ou desenvolver um sistema que resolva algum tipo de problema. O sistema deve rodar no terminal.
-- Previsão: 02 de dezembro
-- Formato: individual
-
-### Conteúdo para provas bimestrais
-O LOOP WHILE<br>
-O LOOP FOR<br>
-INTRODUÇÃO A ARRAY E OPERAÇÕES BÁSICAS DE ARRAY<br>
-OPERAÇÕES BÁSICAS DE ARRAY<br>
-DANDO LOOP EM ARRAYS<br>
-ORDENAÇÃO DE ARRAY<br>
-ITERAÇÃO DE ARRAY<br>
-O QUE SÃO OBJETOS<br>
-ACESSANDO E ALTERANDO OBJETOS<br>
-INTRODUÇÃO A FUNÇÕES E DECLARANDO UMA FUNÇÃO
-COMO USAR UMA FUNÇÃO<br>
-PASSANDO PARAMETROS EM FUNÇÕES
-RETORNO DA FUNÇÃO<br>
-FUNÇÃO COM RETORNO CONDICIONAL<br>
-ARROW FUNCTION<br>
-VARIÁVEIS DENTRO DE FUNÇÕES<br>
-FUNÇÕES DENTRO DE FUNÇÕES<br>
 
 Boas práticas!!
