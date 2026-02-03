@@ -1,0 +1,28 @@
+name: Exercícios
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ex01-primeira-pagina-html:
+    name: ex01-primeira-pagina-html
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex01-primeira-pagina-html
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex02-pagina-com-texto-formatado:
+    name: ex02-pagina-com-texto-formatado
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex02-pagina-com-texto-formatado
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
