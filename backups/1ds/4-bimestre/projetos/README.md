@@ -1,1 +1,0 @@
-Os projetos serão postados aqui.
