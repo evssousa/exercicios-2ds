@@ -64,11 +64,7 @@ Se o Git disser que há **conflitos**, ele mostrará quais arquivos precisam ser
 🧠 Dica: os conflitos aparecem entre marcadores como estes:
 
 ```
-<<<<<<< HEAD
-(sua versão)
-=======
 (versão do GitHub)
->>>>>>> origin/main
 
 ```
 
