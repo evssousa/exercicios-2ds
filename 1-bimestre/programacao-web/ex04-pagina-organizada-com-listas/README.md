@@ -1,14 +1,13 @@
 # 📝 Atividade Rápida
 
-## **Página com imagem e link**
+## **Página organizada com listas**
 
-Crie um arquivo **`index.html`** que contenha:
+Crie um **`index.html`** que contenha:
 
 ### Regras:
 
-- Uma imagem usando a tag `<img>`
-- A imagem deve ter:
-    - atributo `src`
-    - atributo `alt`
-- Um link `<a>` para [**https://www.google.com**](https://www.google.com/)
-- O texto do link deve ser **"Acessar Google"**
+- Uma `<div>` envolvendo o conteúdo
+- Um `<span>` dentro de um parágrafo
+- Uma lista **não ordenada** com 3 itens
+- Uma lista **ordenada** com 3 itens
+- Uma `<hr>` separando seções
