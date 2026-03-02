@@ -19,7 +19,7 @@ O objetivo é apenas criar a estrutura corretamente.
 
 # 📋 REQUISITOS FUNCIONAIS
 
-Crie um arquivo chamado **`index.html`** contendo:
+Crie um sistema contendo:
 
 ---
 
