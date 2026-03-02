@@ -19,10 +19,10 @@ Complete o exercício no tempo estimado.
 - Projeto Pessoal: Desenvolver um sistema com HTML, CSS e JavaScript (DOM) que tenha como intenção resolver algum problema. 
 Previsão para 01-abr | Quantidade de Indivíduos: 2 pessoas (3-5 min de apresentação)
 - Prova Bimestral: previsão para 08-abr
-- **Projeto 1 - Sistema de Validação de Pedidos**<br>
+- **Projeto 1 - Desenvolvimento de Página Institucional em HTML**<br>
 Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
-- **Projeto 2 -**<br>
-Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **Projeto 2 - Sistema de Cadastro e Listagem de Alunos**<br>
+Prazo de Entrega 1: - 04-mar (2,5 pt) | Prazo de Entrega 2: - 15-mar (1,5 pt)
 - **Projeto 3 -**<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 - **Projeto 4 -**<br>
