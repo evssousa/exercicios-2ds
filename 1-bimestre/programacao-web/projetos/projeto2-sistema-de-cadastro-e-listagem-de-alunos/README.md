@@ -142,6 +142,6 @@ Correção de erros.
 
 ### 🔹 10 min — Commit e envio para GitHub
 
-⚠️ Utilize um Kanbam como o Trello para organizar sua sprint de 100 minutos!
+⚠️ Utilize um Kanban como o Trello para organizar sua sprint de 100 minutos! ([link aqui](https://trello.com/))
 
 Boas práticas!
