@@ -25,13 +25,7 @@ Crie um arquivo chamado **`index.html`** contendo:
 
 ## 🔹 1. Estrutura Obrigatória
 
-O documento deve conter:
-
-- `<!DOCTYPE html>`
-- `<html>`
-- `<head>`
-- `<title>`
-- `<body>`
+O documento deve conter a estrutura principal do sistema:
 
 O título da aba deve ser:
 
@@ -43,39 +37,37 @@ Tech Academy
 
 # 🔹 2. Título Principal
 
-Dentro do `<body>` deve existir:
+Dentro do corpo do sistema deve existir um título:
 
 ```html
-<h1>Sistema de Cadastro de Alunos</h1>
+Sistema de Cadastro de Alunos
 ```
 
 ---
 
 # 🔹 3. Seção: Cadastro de Aluno
 
-Deve conter um:
+Deve conter um subtítulo:
 
 ```html
-<h2>Cadastro</h2>
+Cadastro
 ```
 
-E um `<form>` contendo:
+E um formulário contendo:
 
 ### Campos obrigatórios:
 
-1. Nome → `type="text"`
-2. Email → `type="email"`
-3. Idade → `type="number"`
-4. Curso → `<select>` com opções:
+1. Nome
+2. Email
+3. Idade
+4. Curso com opções:
     - HTML
     - CSS
     - JavaScript
-5. Observações → `<textarea>`
-6. Botão de envio:
-    - `type="submit"`
-    - `value="Cadastrar"`
+5. Caixa de observações
+6. Botão de "Cadastrar"
 
-Use `<br>` para organizar visualmente.
+Use quebras de linha para organizar visualmente.
 
 ---
 
@@ -90,21 +82,21 @@ Deve existir um `<hr>` separando:
 
 # 🔹 5. Seção: Lista de Alunos
 
-Deve conter:
+Deve conter um subtítulo:
 
 ```html
-<h2>Alunos Matriculados</h2>
+Alunos Matriculados
 ```
 
-E uma `<table>` com:
+E uma tabela com:
 
-## 🔸 `<caption>` obrigatório:
+## 🔸 Nome da tabela obrigatório:
 
 ```
 Lista de Alunos
 ```
 
-## 🔸 Cabeçalho (th):
+## 🔸 Cabeçalho:
 
 - Nome
 - Email
