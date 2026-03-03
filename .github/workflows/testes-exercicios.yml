@@ -70,3 +70,25 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  ex07-criando-site-com-css:
+    name: ex07-criando-site-com-css
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex07-criando-site-com-css
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex08-site-com-box-model:
+    name: ex08-site-com-box-model
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex08-site-com-box-model
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
