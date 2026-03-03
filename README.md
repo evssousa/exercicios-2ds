@@ -22,7 +22,7 @@ Previsão para 01-abr | Quantidade de Indivíduos: 2 pessoas (3-5 min de apresen
 - **Projeto 1 - Desenvolvimento de Página Institucional em HTML**<br>
 Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
 - **Projeto 2 - Sistema de Cadastro e Listagem de Alunos**<br>
-Prazo de Entrega 1: - 04-mar (2,5 pt) | Prazo de Entrega 2: - 15-mar (1,5 pt)
+Prazo de Entrega 1: - 04-mar (2,5 pt) | Prazo de Entrega 2: - 08-mar (1,5 pt)
 - **Projeto 3 -**<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 - **Projeto 4 -**<br>
@@ -32,8 +32,8 @@ Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 - Projeto Pessoal: Modelar um pequeno sistema utilizando metodologias Ágeis, com Diagrama de Caso de Uso, Protótipo em baixa fidelidade e Elicitação de Requisitos. Deve ser entregue em folha A4 contendo capa, descrição da metodologia utilizada, uma folha contendo o diagrama do sistema, uma folha contendo o protótipo e outra folha contendo pelo menos 10 requisitos entre RF e RNF.
 Previsão para 31-mar | Quantidade de Indivíduos: 3 pessoas (3-5 min de apresentação)
 - Prova Bimestral: previsão para 07-abr
-- **Projeto 1 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+- **Projeto 1 - Desenvolvimento de Sistema de Agendamento Escolar**<br>
+Prazo de Entrega 1: - 05-mar (5 pt) | Prazo de Entrega 2: - 09-mar (3 pt)
 - **Projeto 2 -**<br>
 Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
 
