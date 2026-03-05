@@ -41,8 +41,8 @@ Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
 - Projeto Pessoal: Apresentar os insights do Instagram das startups desenvolvidas, contendo 5 posts e 25 seguidores.
 Previsão para 02-abr | Quantidade de Indivíduos: grupo com até 5 pessoas (5-10 min de apresentação)
 - Prova Bimestral: previsão para 09-abr
-- **Projeto 1 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+- **Projeto 1 - Experiência em uma startup**<br>
+Prazo de Entrega 1: 04-mar (5 pt) | Prazo de Entrega 2: 12-mar (3 pt)
 - **Projeto 2 -**<br>
 Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
 
