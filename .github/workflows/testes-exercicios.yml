@@ -103,3 +103,58 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  ex10-site-com-display:
+    name: ex10-site-com-display
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex10-site-com-display
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex11-aprendendo-dom:
+    name: ex11-aprendendo-dom
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex11-aprendendo-dom
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex12-criando-elementos:
+    name: ex12-criando-elementos
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex12-criando-elementos
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex13-manipulando-dom:
+    name: ex13-manipulando-dom
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex13-manipulando-dom
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex14-enviando-valores-do-dom:
+    name: ex14-enviando-valores-do-dom
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex14-enviando-valores-do-dom
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
