@@ -1,0 +1,30 @@
+.body {
+    background: thistle;
+    font-family: Verdana;
+}
+
+.titulo {
+    text-align: left;
+    color: black;
+    margin: 5px;
+}
+
+.perfil {
+    border: solid 2px;
+    padding: 10px;
+    margin: 5px;
+    background-color: gainsboro;
+}
+
+.profissao {
+    font-size: 12px;
+    color: black;
+}
+
+.botao {
+    display: inline-block;
+    padding: 12px;
+    background-color: tan;
+    color: black;
+    border: solid 2px;
+}

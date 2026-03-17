@@ -1,0 +1,13 @@
+#titulo {
+    text-align: center;
+    font-size: 40px;
+}
+
+.destaque {
+    color: crimson;
+    font-weight: 200;
+}
+
+.p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
