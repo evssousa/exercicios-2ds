@@ -26,3 +26,14 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  projeto3-pagina-de-perfil-profissional:
+    name: projeto3-pagina-de-perfil-profissional
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/projetos/projeto3-pagina-de-perfil-profissional
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
