@@ -15,14 +15,18 @@ Crie uma página contendo as seguintes seções.
 # 🔹 1. Título da Página
 
 Deve existir um título com o texto “Perfil do Desenvolvedor”, tendo que possuir uma classe “titulo”.
-
+Perfil do Desenvolvedor
 # 🔹 2. Seção de Informações
 
 Criar uma `<div>` com classe “perfil”. Dentro dela devem existir:
 
-- Um subtítulo com “Nome do Desenvolvedor”
+- Um subtítulo com “Nome do orDesenvolvedo”
 - Um parágrafo com “Desenvolvedor Web”, tendo uma classe “profissao”
 - Outro parágrafo com “Apaixonado por tecnologia e programação”, tendo uma classe “descricao”
+
+
+
+
 
 # 🔹 3. Seção de Habilidades
 
