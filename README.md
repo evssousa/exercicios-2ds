@@ -24,7 +24,7 @@ Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
 - **Projeto 2 - Sistema de Cadastro e Listagem de Alunos**<br>
 Prazo de Entrega 1: - 04-mar (2,5 pt) | Prazo de Entrega 2: - 08-mar (1,5 pt)
 - **Projeto 3 - Página de Perfil Profissional**<br>
-Prazo de Entrega 1: - 18-mar (2,5 pt) | Prazo de Entrega 2: - 22-mar(1,5 pt)
+Prazo de Entrega 1: - 25-mar (2,5 pt) | Prazo de Entrega 2: - 29-mar(1,5 pt)
 - **Projeto 4 -**<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 
