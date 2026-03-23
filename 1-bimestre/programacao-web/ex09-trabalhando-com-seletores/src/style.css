@@ -1,0 +1,11 @@
+#titulo{
+    text-align: center;
+    font-size: 12px;
+}
+.destaque{
+    color: aqua;
+    font-weight: 500;
+}
+p{
+    font-family: sans-serif;
+}

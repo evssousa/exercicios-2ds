@@ -1,0 +1,9 @@
+div{
+    display: block;
+}
+span{
+    display: inline-block;
+}
+p{
+    display: none;
+}
