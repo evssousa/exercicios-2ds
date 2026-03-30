@@ -158,3 +158,25 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  ex15-trabalhando-com-eventos:
+    name: ex15-trabalhando-com-eventos
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex15-trabalhando-com-eventos
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex16-manipulando-estilos:
+    name: ex16-manipulando-estilos
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/programacao-web/ex16-manipulando-estilos
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
