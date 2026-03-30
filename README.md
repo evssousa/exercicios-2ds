@@ -1,3 +1,5 @@
+## KANBAN DE PROJETOS: <a href="https://github.com/users/evssousa/projects/7">CLIQUE AQUI</a>
+
 # Exercícios para os Alunos
 Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.
 
@@ -22,9 +24,9 @@ Previsão para 01-abr | Quantidade de Indivíduos: 2 pessoas (3-5 min de apresen
 - **Projeto 1 - Desenvolvimento de Página Institucional em HTML**<br>
 Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
 - **Projeto 2 - Sistema de Cadastro e Listagem de Alunos**<br>
-Prazo de Entrega 1: - 04-mar (2,5 pt) | Prazo de Entrega 2: - 08-mar (1,5 pt)
+Prazo de Entrega 1: 04-mar (2,5 pt) | Prazo de Entrega 2: 08-mar (1,5 pt)
 - **Projeto 3 - Página de Perfil Profissional**<br>
-Prazo de Entrega 1: - 25-mar (2,5 pt) | Prazo de Entrega 2: - 29-mar(1,5 pt)
+Prazo de Entrega 1: 25-mar (2,5 pt) | Prazo de Entrega 2: 29-mar(1,5 pt)
 - **Projeto 4 -**<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 
@@ -33,9 +35,9 @@ Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 Previsão para 31-mar | Quantidade de Indivíduos: 3 pessoas (3-5 min de apresentação)
 - Prova Bimestral: previsão para 07-abr
 - **Projeto 1 - Desenvolvimento de Sistema de Agendamento Escolar**<br>
-Prazo de Entrega 1: - 05-mar (5 pt) | Prazo de Entrega 2: - 09-mar (3 pt)
-- **Projeto 2 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+Prazo de Entrega 1: 05-mar (5 pt) | Prazo de Entrega 2: 09-mar (3 pt)
+- **Projeto 2 - Desenvolvimento de um Protótipo de Site para Divulgação de Curso**<br>
+Prazo de Entrega 1: 31-mar (5 pt) | Prazo de Entrega 2: 07-abr (3 pt)
 
 ### Gestão de Startup I
 - Projeto Pessoal: Apresentar os insights do Instagram das startups desenvolvidas, contendo 5 posts e 25 seguidores.
