@@ -1,0 +1,10 @@
+.concluido{
+    background-color: green;
+    text-decoration: overline;
+}
+
+li{
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px 0;
+}
