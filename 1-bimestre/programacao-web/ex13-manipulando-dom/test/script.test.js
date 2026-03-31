@@ -10,8 +10,8 @@ test("Evento click presente", () => {
 });
 
 test("Utiliza textContent ou innerHTML", () => {
-  constusaTextContent = js.includes("textContent");
-  constusaInnerHTML = js.includes("innerHTML");
+  const usaTextContent = js.includes("textContent");
+  const usaInnerHTML = js.includes("innerHTML");
   expect(usaTextContent || usaInnerHTML).toBe(true);
 });
 
