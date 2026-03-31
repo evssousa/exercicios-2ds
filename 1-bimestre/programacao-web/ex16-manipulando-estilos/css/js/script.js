@@ -1,8 +1,9 @@
-const pResultado = document.getElementById("texto")
-const btn = document.getElementById("mudarEstilo")
+const botao = document.getElementById("mudarEstilo")
+const texto = document.getElementById("texto") 
 
-btn.addEventListener("click", () =>{
-    texto.style.color = "red"
-    texto.style.fontSize = "40px"
+botao.addEventListener("click", ()=>{
+    
     texto.classList.add("destaque")
+    texto.style.color = "blue"
+    texto.style.fontSize = "24px"
 })
