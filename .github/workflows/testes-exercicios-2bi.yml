@@ -1,0 +1,39 @@
+name: Corretor de Exercícios 2º BI
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  aula02-primeira-pagina-com-react-e-conhecendo-o-jsx:
+    name: aula02-primeira-pagina-com-react-e-conhecendo-o-jsx
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula02-primeira-pagina-com-react-e-conhecendo-o-jsx
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula03-criando-um-projeto-com-vite:
+    name: aula03-criando-um-projeto-com-vite
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula03-criando-um-projeto-com-vite/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula04-criando-primeiros-componentes:
+    name: aula04-criando-primeiros-componentes
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula04-criando-primeiros-componentes/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
