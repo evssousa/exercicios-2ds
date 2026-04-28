@@ -27,8 +27,28 @@ Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
 Prazo de Entrega 1: 04-mar (2,5 pt) | Prazo de Entrega 2: 08-mar (1,5 pt)
 - **Projeto 3 - Página de Perfil Profissional**<br>
 Prazo de Entrega 1: 25-mar (2,5 pt) | Prazo de Entrega 2: 29-mar(1,5 pt)
-- **Projeto 4 -**<br>
-Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **Projeto 4 - Sistema de Lista de Tarefas**<br>
+Prazo de Entrega 1: 30-mar (2,5 pt) | Prazo de Entrega 2: 05-abr (1,5 pt)
+
+#### | CONTEÚDOS PARA A PROVA
+```
+- INTRODUÇÃO AO MÓDULO, O QUE É HTML E CRIANDO SUA PRIMEIRA PÁGINA HTML
+- PARÁGRAFO, TÍTULO, FORMATAÇÃO E COMENTARIOS
+- IMAGEM, ATRIBUTO, FORMATOS E LINKS
+- QUEBRAS DE LINHA, REGUA, DIV, SPAN E LISTAS ORDENADAS E NÃO-ORDENADAS
+- CRIAÇÃO DE TABELAS
+- FORMULÁRIOS: INPUTS, SELECT E TEXTAREA
+- O QUE É CSS, CORES, BACKGROUND E BORDER
+- BOX MOEL: MARGIN E PADDING
+- DISPLAY: NONE, INLINE, BLOCK E INLINE-BLOCK
+- SELETORES, TEXTOS, FONTES E UNIDADES DE MEDIDA
+- EVENTOS E OBTENDO ELEMENTOS HTML NO DOM
+- CRIANDO NOVOS ELEMENTOS NO DOM
+- PRATICANDO A MANIPULAÇÃO NO DOM
+- ENVIANDO VALORES DO DOM PARA O JAVASCRIPT
+- TRABALHANDO COM EVENTOS E COM FORMULÁRIOS NO JAVASCRIPT
+- MANIPULANDO ESTILOS E ATRIBUTOS NO JAVASCRIPT
+```
 
 ### Análise e Projeto de Sistemas
 - Projeto Pessoal: Modelar um pequeno sistema utilizando metodologias Ágeis, com Diagrama de Caso de Uso, Protótipo em baixa fidelidade e Elicitação de Requisitos. Deve ser entregue em folha A4 contendo capa, descrição da metodologia utilizada, uma folha contendo o diagrama do sistema, uma folha contendo o protótipo e outra folha contendo pelo menos 10 requisitos entre RF e RNF.
@@ -39,16 +59,40 @@ Prazo de Entrega 1: 05-mar (5 pt) | Prazo de Entrega 2: 09-mar (3 pt)
 - **Projeto 2 - Desenvolvimento de um Protótipo de Site para Divulgação de Curso**<br>
 Prazo de Entrega 1: 31-mar (5 pt) | Prazo de Entrega 2: 07-abr (3 pt)
 
+#### | CONTEÚDOS PARA A PROVA
+```
+- CONCEITOS FUNDAMENTAIS DE SISTEMAS: DEFINIÇÃO E PROPOSITO
+- O CICLO DE VIDA DE DESENVOLVIMENTO DE SOFTWARE (SDLC)
+- INTRODUÇÃO AS METODOLOGIAS: CASCATA, AGIL E RAD
+- TIPOS DE REQUISITOS E TECNICAS DE ELICITAÇÃO
+- DIAGRAMA DE CASOS DE USO E FERRAMENTAS DE PROTOTIPAGEM
+- CRIAÇÃO DE PROTÓTIPOS DE BAIXA E ALTA FIDELIDADE
+- INSTALAÇÃO E CONFIGURAÇÃO DO WORDPRESS LOCAL E REMOTO
+- CONFIGURAÇÃO DE TEMAS E PLUGINS PARA PROTOTIPAÇÃO
+```
+
 ### Gestão de Startup I
 - Projeto Pessoal: Apresentar os insights do Instagram das startups desenvolvidas, contendo 5 posts e 25 seguidores.
 Previsão para 02-abr | Quantidade de Indivíduos: grupo com até 5 pessoas (5-10 min de apresentação)
 - Prova Bimestral: previsão para 07-abr
 - **Projeto 1 - Experiência em uma startup**<br>
 Prazo de Entrega 1: 04-mar (5 pt) | Prazo de Entrega 2: 12-mar (3 pt)
-- **Projeto 2 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+- **Projeto 2 - O Gato Comeu meu Código-Fonte**<br>
+Prazo de Entrega 1: 26-mar (5 pt) | Prazo de Entrega 2: 02-abr (3 pt)
+
+#### | CONTEÚDOS PARA A PROVA
+```
+- O QUE É UMA STARTUP, SUAS DEFINIÇÕES, ECOSSISTEMA E POR QUE STARTUP MUDAM O MUNDO
+- STARTUPS X EMPRESAS TRADICIONAIS: DIFERENÇAS CULTURAIS
+- MINDSET DE STARTUP: FLEXIBILIDADE, ABERTURA E INOVAÇÃO
+- O PAPEL DO PROGRAMADOR NO MUNDO DAS STARTUPS
+- COMUNICAÇÃO INTERNA: COMO INTERAGIR EM OUTRAS ÁREAS
+- PENSAMENTO ÁGIL: AGILIDADE ALÉM DA PROGRAMAÇÃO
+```
 
 OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
+
+### CONTEÚDOS PARA A PROVA
 
 # Status do Actions
 |Aluno              |Exercícios   |Projetos   |
@@ -65,7 +109,7 @@ OBS: É necessário que todos os exercícios estejam concluídos até um dia ant
 |Francisco Bruno |[![Corretor de Exercícios](https://github.com/francisco-Bruno/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/francisco-Bruno/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/francisco-Bruno/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/francisco-Bruno/exercicios-2ds/actions/workflows/testes-projetos.yml) |
 |Francisco Enzo |[![Corretor de Exercícios](https://github.com/enzo850/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/enzo850/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/enzo850/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/enzo850/exercicios-2ds/actions/workflows/testes-projetos.yml) |
 |Francisco Taislan |[![Corretor de Exercícios](https://github.com/taislanmorais/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/taislanmorais/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/taislanmorais/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/taislanmorais/exercicios-2ds/actions/workflows/testes-projetos.yml) |
-|Idelfonso de Oliveira |[![Corretor de Exercícios](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-projetos.yml) |
+|Ana Delly |[![Corretor de Exercícios](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/deell-17/exercicios-2ds/actions/workflows/testes-projetos.yml) |
 |Isabelle Lopes |[![Corretor de Exercícios](https://github.com/isabelleprog05/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/isabelleprog05/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/isabelleprog05/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/isabelleprog05/exercicios-2ds/actions/workflows/testes-projetos.yml) |
 |Joao Emanoel |[![Corretor de Exercícios](https://github.com/emanoelzzs/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/emanoelzzs/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/emanoelzzs/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/emanoelzzs/exercicios-2ds/actions/workflows/testes-projetos.yml) |
 |Joao Mateus |[![Corretor de Exercícios](https://github.com/jmateus03/exercicios-2ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/jmateus03/exercicios-2ds/actions/workflows/testes-exercicios.yml) |[![Corretor de Projetos](https://github.com/jmateus03/exercicios-2ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/jmateus03/exercicios-2ds/actions/workflows/testes-projetos.yml) |
