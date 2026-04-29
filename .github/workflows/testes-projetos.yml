@@ -48,3 +48,14 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  projeto5-primeiro-site-com-react:
+    name: projeto5-primeiro-site-com-react
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/projetos/projeto5-primeiro-site-com-react/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
