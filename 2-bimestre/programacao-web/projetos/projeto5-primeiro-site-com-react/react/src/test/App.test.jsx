@@ -11,8 +11,8 @@ describe("App", () => {
   test("renderiza Header no App", () => {
     render(<App />)
 
-    const Home = screen.getByText(/Home/i)
-    expect(Home).toBeTruthy()
+    const home = screen.getByText(/home/i)
+    expect(home).toBeTruthy()
   })
 
   // Testa se a aplicação completa renderiza Home
@@ -27,24 +27,24 @@ describe("App", () => {
   test("renderiza Sobre no App", () => {
     render(<App />)
 
-    const Sobre = screen.getByText(/Sobre/i)
-    expect(Sobre).toBeTruthy()
+    const sobre = screen.getByText(/sobre/i)
+    expect(sobre).toBeTruthy()
   })
 
   // Testa se a aplicação completa renderiza Contato
   test("renderiza Contato no App", () => {
     render(<App />)
 
-    const Contato = screen.getByText(/Contato/i)
-    expect(Contato).toBeTruthy()
+    const contato = screen.getByText(/contato/i)
+    expect(contato).toBeTruthy()
   })
 
   // Testa se a aplicação completa renderiza Footer
   test("renderiza Footer no App", () => {
     render(<App />)
 
-    const Footer = screen.getByText(/2026/i)
-    expect(Footer).toBeTruthy()
+    const footer = screen.getByText(/2026/i)
+    expect(footer).toBeTruthy()
   })
 
 })
