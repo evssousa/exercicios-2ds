@@ -11,7 +11,7 @@ describe("App", () => {
   test("renderiza Header no App", () => {
     render(<App />)
 
-    const home = screen.getByText(/home/i)
+    const home = screen.getByText("<Header />")
     expect(home).toBeTruthy()
   })
 
@@ -19,7 +19,7 @@ describe("App", () => {
   test("renderiza Home no App", () => {
     render(<App />)
 
-    const boasVindas = screen.getByText(/bem-vindo/i)
+    const boasVindas = screen.getByText("<Home />")
     expect(boasVindas).toBeTruthy()
   })
 
@@ -27,7 +27,7 @@ describe("App", () => {
   test("renderiza Sobre no App", () => {
     render(<App />)
 
-    const sobre = screen.getByText(/sobre/i)
+    const sobre = screen.getByText("<Sobre />")
     expect(sobre).toBeTruthy()
   })
 
@@ -35,7 +35,7 @@ describe("App", () => {
   test("renderiza Contato no App", () => {
     render(<App />)
 
-    const contato = screen.getByText(/contato/i)
+    const contato = screen.getByText("<Contato />")
     expect(contato).toBeTruthy()
   })
 
@@ -43,7 +43,7 @@ describe("App", () => {
   test("renderiza Footer no App", () => {
     render(<App />)
 
-    const footer = screen.getByText(/2026/i)
+    const footer = screen.getByText("<Footer />")
     expect(footer).toBeTruthy()
   })
 
