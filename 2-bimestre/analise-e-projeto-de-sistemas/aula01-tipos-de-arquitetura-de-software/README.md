@@ -132,3 +132,7 @@ Associe:
 3. Site escolar com vários usuários
 
 Crie sua resposta abaixo:
+Respostas:
+1. Sistema pequeno de biblioteca (Monolítico)
+2. Loja online nacional (Microsserviços)
+3. Site escolar com vários usuários (Cliente-Servidor)
