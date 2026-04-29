@@ -70,7 +70,22 @@ Testável               Refinado
 
 ## 📌 Como pensar um MVP?
 
-Pergunte:
+Se Pergunte:
 
 - Qual é o problema principal?
 - Qual é a solução mais simples possível?
+
+Fim da aula!
+
+_
+
+## 📝 Atividade Rápida
+
+### Criando um MVP
+
+Problema:
+
+> Alunos esquecem de fazer tarefas escolares.
+> 
+
+Como você criaria um MVP para resolver esse problema? Escreva abaixo.

@@ -97,3 +97,19 @@ Muitas empresas contratam iniciantes que demonstrem:
 - vontade de aprender
 
 📌 Por isso, currículo, LinkedIn e portfólio são importantes.
+
+Fim da aula!
+
+_
+
+# 📝 Atividade Rápida
+
+## Descobrindo seu perfil profissional
+
+Responda:
+
+1. Em qual área você teria mais interesse hoje?
+2. Quais habilidades você já possui para essa área?
+3. O que precisa desenvolver?
+
+Crie sua resposta abaixo:
