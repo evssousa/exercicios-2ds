@@ -19,7 +19,7 @@ describe("App", () => {
   test("renderiza Home no App", () => {
     render(<App />)
 
-    const boasVindas = screen.getByText(/bem-vindo/i)
+    const boasVindas = screen.getByText(/Bem-vindo/i)
     expect(boasVindas).toBeTruthy()
   })
 
