@@ -1,4 +1,4 @@
-name: Corretor de Projetos
+name: Corretor de Projetos Nível 2
 
 on:
   push:
@@ -54,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: 2-bimestre/programacao-web/projetos/projeto5-primeiro-site-com-react/react
+        working-directory: 2-bimestre/programacao-web/projetos/projeto5-primeiro-site-com-react/nivel2/react
     steps:
       - uses: actions/checkout@v3
       - run: npm install
