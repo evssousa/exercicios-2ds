@@ -37,3 +37,25 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  aula05-criando-um-componente-perfil-dinamico:
+    name: aula05-criando-um-componente-perfil-dinamico
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula05-criando-um-componente-perfil-dinamico/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula06-criando-e-estilizando-um-footer:
+    name: aula06-criando-e-estilizando-um-footer
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula06-criando-e-estilizando-um-footer/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test

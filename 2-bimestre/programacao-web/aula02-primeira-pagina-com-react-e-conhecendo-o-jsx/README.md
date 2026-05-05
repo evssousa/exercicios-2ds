@@ -128,7 +128,7 @@ Seu componente deve:
 
 - Exibir seu nome em um `<h1>`
 - Mostrar sua matéria favorita
-- Criar uma variável:
+- Adicione também a variável de exemplo abaixo e seu retorno:
 
 ```jsx
 // Variável com seu filme favorito

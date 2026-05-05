@@ -62,3 +62,24 @@ O React utiliza o **Virtual DOM**.
 - Código reutilizável
 - Melhor performance
 - Muito usado no mercado
+
+Fim da aula!
+
+_
+
+# 📝 Atividade Rápida
+
+## 📌 Introdução ao React
+
+Tespondendo as perguntas abaixo:
+
+---
+
+Perguntas:
+
+1. O que é React?
+2. React é biblioteca ou framework?
+3. O que é Virtual DOM?
+4. Qual a vantagem do Virtual DOM?
+
+Crie sua resposta abaixo:

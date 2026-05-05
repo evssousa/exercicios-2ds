@@ -79,3 +79,25 @@ Startups valorizam quem:
 ✔ testa alternativas
 ✔ aprende com erros
 ```
+
+Fim da aula!
+
+_
+
+# 📝 Atividade Rápida
+
+## Resolvendo um problema real
+
+Situação:
+
+> Um grupo precisa entregar um projeto, mas ninguém sabe quem faria cada parte.
+> 
+
+Perguntas:
+
+1. Qual é o problema principal?
+2. O que causou isso?
+3. Qual solução imediata?
+4. Como evitar novamente?
+
+Crie sua resposta abaixo:

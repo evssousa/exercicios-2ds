@@ -85,3 +85,20 @@ Esperar o produto ficar perfeito antes de mostrar.
 ```
 Testar → Aprender → Melhorar → Repetir
 ```
+
+Fim da aula!
+
+_
+
+# 📝 Atividade Rápida
+
+## Identificando o ciclo de inovação
+
+Um grupo criou um aplicativo para organizar tarefas. Após mostrar para colegas, perceberam que estava difícil de usar. Então decidiram simplificar a interface.
+
+Pergunta:
+
+1. Em que etapa do ciclo eles estão?
+2. Qual será o próximo passo?
+
+Crie sua resposta abaixo:
