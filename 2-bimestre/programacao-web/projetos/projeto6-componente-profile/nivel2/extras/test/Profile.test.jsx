@@ -3,7 +3,7 @@ import { render, screen } from "@testing-library/react"
 import { describe, test, expect } from "vitest"
 
 // Importando componente
-import Profile from "./src/components/Profile"
+import Profile from "../components/Profile"
 
 describe("Profile", () => {
 
