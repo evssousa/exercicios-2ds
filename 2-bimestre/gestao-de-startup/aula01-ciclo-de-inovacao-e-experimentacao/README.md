@@ -102,3 +102,5 @@ Pergunta:
 2. Qual será o próximo passo?
 
 Crie sua resposta abaixo:
+R1. Estão na etapa de Melhoria.
+R2. Fazer um novo teste para definir se o aplicativo está melhor
