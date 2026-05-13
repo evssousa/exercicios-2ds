@@ -113,3 +113,6 @@ Responda:
 3. O que precisa desenvolver?
 
 Crie sua resposta abaixo:
+1. Na área de jogos digitais, ou na área de engenharia de software.
+2. Na área de jogos digitais, posso criar pequenos protótipos funcionais e sempre buscando melhora-los para chegar ao projeto final e completo.
+3. Meu objetivo é desenvolver um jogo funcional, não precisa ser inovador ou diferente, mas precisa ser intuitivo e divertido para jogar.

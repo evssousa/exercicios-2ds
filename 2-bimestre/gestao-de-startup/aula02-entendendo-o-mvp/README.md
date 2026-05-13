@@ -89,3 +89,5 @@ Problema:
 > 
 
 Como você criaria um MVP para resolver esse problema? Escreva abaixo.
+
+Uma boa ajuda seria um pequeno app parecido com o site do kanban onde esses alunos poderiam marcar suas tarefas e receber lembretes sempre que possível para não esquecerem sobre elas, um aplicativo simples e funcional que cumpra bem seu propósito, e deixando mais intuitivo para os alunos recordarem suas tarefas.

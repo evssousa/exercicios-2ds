@@ -101,3 +101,7 @@ Perguntas:
 4. Como evitar novamente?
 
 Crie sua resposta abaixo:
+1. Separar a função de cada membro.
+2. Desorganização da equipe.
+3. Parar, refletir e separar a função de cada um em um papel.
+4. criar uma maneira de cada um escolher sua função e demonstrar aos demais que ja esta fazendo aquilo.
