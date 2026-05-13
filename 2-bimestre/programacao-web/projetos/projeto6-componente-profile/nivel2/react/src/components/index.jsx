@@ -1,1 +1,0 @@
-import Profile from "./profile/Profile"
