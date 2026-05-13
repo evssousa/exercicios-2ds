@@ -3,7 +3,7 @@ import { render, screen } from "@testing-library/react"
 import { describe, test, expect } from "vitest"
 
 // Importando o componente Footer
-import Footer from "../components/Footer"
+import Footer from "/src/components/Footer"
 
 describe("Footer", () => {
 

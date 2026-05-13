@@ -81,3 +81,25 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  aula09-criando-componente-painel:
+    name: aula09-criando-componente-painel
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula09-criando-componente-painel/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula10-criando-componente-input:
+    name: aula10-criando-componente-input
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula10-criando-componente-input/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
