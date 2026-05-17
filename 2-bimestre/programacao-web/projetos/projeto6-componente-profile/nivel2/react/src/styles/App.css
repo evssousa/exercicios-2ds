@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bar {
+    display: flex;
+    gap: 970px;
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: #191d4d;
+    text-align: center;
+}
+
+.bar h1 {
+    font-size: 20px;
+    color: white;
+}
+
+.titulo {
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo h1 {
+    font-size: 30px;
+    color: #191d4d;
+}
+
+.titulo h2 {
+    margin-top: 20px;
+    font-size: 15px;
+    color: rgb(92, 108, 136);
+    
+}
+
+.card {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-right: 50px;
+    padding-left: 50px;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 15px;
+    font-size: 10px;
+    background-color: #111444;
+    color: white;
+}
