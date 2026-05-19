@@ -31,6 +31,8 @@ Prazo de Entrega 1: 25-mar (2,5 pt) | Prazo de Entrega 2: 29-mar(1,5 pt)
 Prazo de Entrega 1: 30-mar (2,5 pt) | Prazo de Entrega 2: 05-abr (1,5 pt)
 - ⚠️ **Projeto 5 - Primeiro Site com React**<br>
 Prazo de Entrega 1: 06-mai (2,5 pt) | Prazo de Entrega 2: 08-mai (1,5 pt)
+- ⚠️ **Projeto 6 - Componente Profile**<br>
+Prazo de Entrega 1: 15-mai (2,5 pt) | Prazo de Entrega 2: 17-mai (1,5 pt)
 
 #### | CONTEÚDOS PARA A PROVA
 ```
