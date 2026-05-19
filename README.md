@@ -63,6 +63,8 @@ Previsão para 11-jun | Quantidade de Indivíduos: até 5 pessoas (5-10 min de a
 Prazo de Entrega 1: 04-mar (5 pt) | Prazo de Entrega 2: 12-mar (3 pt)
 - ✅ **Projeto 2 - O Gato Comeu meu Código-Fonte**<br>
 Prazo de Entrega 1: 26-mar (5 pt) | Prazo de Entrega 2: 02-abr (3 pt)
+- ⚠️ **Projeto 3 - Desenvolvimento de um MVP**<br>
+Prazo de Entrega 1: 21-mai (5 pt) | Prazo de Entrega 2: não há
 
 #### | CONTEÚDOS PARA A PROVA
 ```
