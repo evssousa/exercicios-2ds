@@ -1,0 +1,37 @@
+.profile-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px
+}
+
+.profile-card{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    align-items: center;
+    border: 1px black solid;
+    box-shadow: 2px 1px 5px 0px  black;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.imagem{
+    height: 180px;
+    width: 180px;
+    border-radius: 100px;
+}
+
+.profile{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.profile-infos{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7px;
+}

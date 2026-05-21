@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #001969;
+    height: 60px;
+    font-size: 25px;
+}
+.navbar p{
+    margin: 0px 30px 0px 30px
+}
