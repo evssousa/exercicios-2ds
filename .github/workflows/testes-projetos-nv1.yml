@@ -15,3 +15,14 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  projeto6-componente-profile:
+    name: projeto6-componente-profile
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/projetos/projeto6-componente-profile/nivel1
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
