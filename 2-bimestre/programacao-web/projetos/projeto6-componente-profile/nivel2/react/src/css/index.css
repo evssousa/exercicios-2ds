@@ -11,5 +11,27 @@
     justify-content: space-between;
 }
 
+.principal{
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.tituloInfos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.titulo{
+    font-size: 45px;
+    color: #3232b6;
+}
+
+.subTitulo{
+    font-size: 20px;
+    color: gray;
+}
 
 
