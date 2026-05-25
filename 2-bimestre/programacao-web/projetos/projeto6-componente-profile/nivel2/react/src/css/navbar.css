@@ -1,11 +1,27 @@
 .navbar{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #001969;
+    background-color: #5575db;
     height: 60px;
     font-size: 25px;
 }
 .navbar p{
+    margin: 0;
+}
+
+.logoImg{
+    height: 32px;
+}
+
+.nomeSite{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 3px;
+}
+
+.navbarInfos{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    justify-content: space-between;
     margin: 0px 30px 0px 30px
 }

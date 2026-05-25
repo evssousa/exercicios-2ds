@@ -1,3 +1,5 @@
+import imgpessoas from "./../../../assets/pessoas.png"
+
 export default function Card({ imagem , nome , idade , profissao}){
     return(
         <>
@@ -13,6 +15,10 @@ export default function Card({ imagem , nome , idade , profissao}){
                     <p className="profissao">
                         <strong>profissão:</strong> {profissao}
                     </p>
+                </div>
+                <div className="colaboradores">
+                    <img className="imgColab" src={imgpessoas}/>
+                    <p>Colaboradores</p>
                 </div>
             </div>
         </>

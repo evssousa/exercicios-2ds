@@ -1,12 +1,18 @@
 import "./../../css/navbar.css"
+import imgPessoas from "./../../assets/pessoas.png"
 
 export default function Navbar(){
     return(
         <>
-            <div className="navbar">
-                <p>TechVision</p>
-                <p>Sistema interno</p>
-            </div>
+            <nav className="navbar">
+                <div className="navbarInfos">
+                    <div className="nomeSite">
+                        <img className="logoImg" src={imgPessoas}/>
+                        <p>TechVision</p>
+                    </div>    
+                    <p>Sistema interno</p>
+                </div>
+            </nav>
         </>
     )
 }
