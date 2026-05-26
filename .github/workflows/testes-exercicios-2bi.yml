@@ -103,3 +103,25 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  aula11-controle-de-acoes:
+    name: aula11-controle-de-acoes
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula11-controle-de-acoes/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula12-formulario-de-contato:
+    name: aula12-formulario-de-contato
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/aula12-formulario-de-contato/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
