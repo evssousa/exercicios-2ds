@@ -1,3 +1,5 @@
+import Enviar from "./../../assets/enviar.png"
+
 export default function FormularioMensagem(){
     return(
         <form className="formulario">
@@ -11,7 +13,7 @@ export default function FormularioMensagem(){
             </div>
             <div className="botao">
                 <button className="BotaoEnviar" type="submit">
-                    <img src={}/>
+                    <img src={Enviar}/>
                     ENVIAR MENSAGEM
                 </button>
             </div>

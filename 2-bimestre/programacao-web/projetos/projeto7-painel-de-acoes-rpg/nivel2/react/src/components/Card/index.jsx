@@ -1,6 +1,9 @@
 import { Children } from "react"
 import Botao from "../Botao"
 import FotoDePerfil from "./../../assets/perfil.png"
+import Escudo from "./../../assets/escudo.png"
+import Espada from "./../../assets/espada.png"
+import Fugir from "./../../assets/fugir.png"
 
 export default function Card({ classe , Children, nivel, vida ,experiencia}){
     function atacar(){
@@ -30,9 +33,9 @@ export default function Card({ classe , Children, nivel, vida ,experiencia}){
                 </div>
             </div>
             <div className="botoes">
-                <Botao acao={"ATACAR"} imagem={} funcao={atacar}/>
-                <Botao acao={"DEFENDER"} imagem={} funcao={defender}/>
-                <Botao acao={"FUGIR"} imagem={} funcao={fugir}/>
+                <Botao acao={"ATACAR"} imagem={Espada} funcao={atacar}/>
+                <Botao acao={"DEFENDER"} imagem={Escudo} funcao={defender}/>
+                <Botao acao={"FUGIR"} imagem={Fugir} funcao={fugir}/>
             </div>
         </div>
     )
