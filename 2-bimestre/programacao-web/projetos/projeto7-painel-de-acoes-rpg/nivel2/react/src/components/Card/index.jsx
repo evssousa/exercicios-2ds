@@ -30,9 +30,9 @@ export default function Card({ classe , Children, nivel, vida ,experiencia}){
                 </div>
             </div>
             <div className="botoes">
-                <Botao acao={"ATACAR"} funcao={atacar}/>
-                <Botao acao={"DEFENDER"} funcao={defender}/>
-                <Botao acao={"FUGIR"} funcao={fugir}/>
+                <Botao acao={"ATACAR"} imagem={} funcao={atacar}/>
+                <Botao acao={"DEFENDER"} imagem={} funcao={defender}/>
+                <Botao acao={"FUGIR"} imagem={} funcao={fugir}/>
             </div>
         </div>
     )
