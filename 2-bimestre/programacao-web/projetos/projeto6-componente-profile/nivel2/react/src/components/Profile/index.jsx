@@ -1,5 +1,5 @@
 import Card from "./elements/Card";
-import "./../../css/profile.css"
+import "./../../styles/ProfileCSS.css"
 
 export default function Profile({nome , idade , imagem, profissao}){
     return(

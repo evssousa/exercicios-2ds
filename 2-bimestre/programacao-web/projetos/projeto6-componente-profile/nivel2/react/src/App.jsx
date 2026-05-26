@@ -1,8 +1,8 @@
 import Profile from "./components/Profile"
-import VendedorDegas from "./assets/vendedorDeGas.jpg"
 import Gari from "./assets/gariFoto.png"
 import programador from "./assets/programador.jpg"
-import "./css/index.css"
+import mulher from "./assets/mulher.jpg"
+import "./styles/index.css"
 import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
 
@@ -20,10 +20,10 @@ export default function App(){
           </div>
           <div className="profile-list">
             <Profile
-            nome={"Henrique"}
-            profissao={"Vendedor de gás"}
-            imagem={VendedorDegas}
-            idade={40}
+            nome={"Mariana"}
+            profissao={"Dev"}
+            imagem={mulher}
+            idade={27}
             />
 
             <Profile

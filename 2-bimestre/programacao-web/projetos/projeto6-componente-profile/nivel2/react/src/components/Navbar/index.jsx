@@ -1,4 +1,4 @@
-import "./../../css/navbar.css"
+import "./../../styles/navbar.css"
 import imgPessoas from "./../../assets/pessoas.png"
 
 export default function Navbar(){
