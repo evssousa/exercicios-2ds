@@ -4,7 +4,7 @@ export default function Profile({ imagem, nome, idade, profissao }) {
     return (
         <> 
         <div className="profile-card">
-        <img src={imagem} alt="" />
+        <img src={imagem} alt="imagem" />
         <h1>{nome}</h1>
         <p>{idade}</p>
         <p>{profissao}</p>
