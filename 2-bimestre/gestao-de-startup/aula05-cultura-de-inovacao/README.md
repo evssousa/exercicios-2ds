@@ -26,3 +26,7 @@ Responda:
 3. Como essa ideia poderia ser testada rapidamente?
 
 Crie sua resposta abaixo:
+
+1. A saída dos intervalos
+2. um organizador de filas
+3. com uma turma ou duas turmas, controlando a saída entre elas
