@@ -1,9 +1,9 @@
-import foto from "../public/foto.avif"
-import foto2 from "../public/foto2.png"
-import foto3 from "../public/foto3.png"
+import Foto from "../src/images/foto.png"
+import Foto2 from "../src/images/foto2.png"
+import Foto3 from "../src/images/foto3.png"
 import Profile from "./components/Profile"
 import Footer from "./components/Pages/Footer"
-import "./styles/App.css"
+import "../src/App.css"
 
 export default function App() {
   return (
@@ -19,29 +19,28 @@ export default function App() {
     <div className="card">
       <div className="profile">
       <Profile 
-      foto={foto2}
-      nome={"Mariana Silva"} 
-      idade={"Idade: 26 anos"} 
-      profissao={"Profissão: Gerente de Marketing"}
-      />
-
-      </div>
-
-      <div className="profile">
-      <Profile 
-      foto={foto}
-      nome={"João Santos"} 
-      idade={"Idade: 23 anos"} 
-      profissao={"Profissão: Designer Gráfico"}
+      imagem={Foto2}
+      nome={"Mariana Silva"}
+      idade={"Idade: 25 anos"}
+      profissao={"Profissão: Engenheira"}
       />
       </div>
 
       <div className="profile">
       <Profile 
-      foto={foto3}
-      nome={"Carlos Alberto"} 
-      idade={"Idade: 36 anos"} 
-      profissao={"Profissão: Dev Backend"}
+      imagem={Foto}
+      nome={"João Santos"}
+      idade={"Idade: 26 anos"}
+      profissao={"Profissão: Desenvolvedor Frontend"}
+      />
+      </div>
+
+      <div className="profile">
+      <Profile 
+      imagem={Foto3}
+      nome={"Carlos Alberto"}
+      idade={"Idade: 32 anos"}
+      profissao={"Profissão: Desenvolvedor Backend"}
       />
       </div>
     </div>

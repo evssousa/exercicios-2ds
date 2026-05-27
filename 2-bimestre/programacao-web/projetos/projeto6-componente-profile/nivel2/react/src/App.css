@@ -13,7 +13,9 @@
 }
 
 .bar h1 {
-    font-size: 20px;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     color: white;
 }
 
@@ -49,7 +51,7 @@
     padding-bottom: 80px;
     padding-right: 50px;
     padding-left: 50px;
-    justify-content: center;
+    align-items: center;
     background-color: rgb(255, 255, 255);
 }
 
