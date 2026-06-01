@@ -1,5 +1,7 @@
-export default function Botao({ acao, funcao, imagem }){
+import "./style.css"
+
+export default function Botao({ texto, onClick, imagem, nomeBotao }){
     return(
-        <button onClick={funcao}><img className="iconeBotão" src={imagem}/> {acao}</button>
+        <button onClick={onClick} className={nomeBotao}><img src={imagem}/> {texto}</button>
     )
 }

@@ -1,0 +1,73 @@
+.perfil{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 250px;
+    width: 650px;
+    padding: 3px;
+    border: 1px #aeaeae solid;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.perfilInfos{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
+
+.nome{
+    font-size: 14px;
+    padding: 5px;
+}
+
+.atributos{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 13px
+}
+
+.perfilInfos{
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+
+.perfilImg > img{
+    height: 140px;
+    padding: 15px;
+}
+
+.botoes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.classe{
+    color: blueviolet;
+}
+
+.nivel{
+    color:blueviolet
+}
+
+.vida{
+    color: greenyellow;
+}
+
+.vidaTotal{
+    color:gray;
+}
+
+.experiencia{
+    color:#2988e7
+}
+
+.experienciaTotal{
+    color: gray;
+}

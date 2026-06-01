@@ -1,0 +1,90 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 250px;
+    width: 650px;
+    padding: 3px;
+    border: 1px #aeaeae solid;
+    border-radius: 5px;
+    margin: 10px;
+}
+.formulario > h2{
+    padding: 3px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+}
+.botaoEnviar > img{
+    height: 25px;
+}
+
+.informacoes{
+    display: flex;
+    flex-direction: column
+}
+
+.nomeInfo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 54px;
+    padding: 10px;
+}
+
+.nomeInfo > label{
+    font-size: 12px;
+}
+
+.inputNome{
+    width: 500px;
+    height: 30px;
+    padding: 3px;
+    border: 1px gray solid;
+    opacity: 80%;
+    border-radius: 3px;
+}
+
+.mensagemInfo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px;
+}
+
+.mensagemInfo > label{
+    font-size: 12px;
+}
+
+.mensagem{
+    width: 500px;
+    height: 80px;
+    padding: 3px;
+    border: 1px gray solid;
+    opacity: 80%;
+    border-radius: 3px;
+}
+
+.botaoMensagem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botaoEnviar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    height: 40px;
+    font-weight: 500;
+    border: none;
+    background-color: blueviolet;
+    border-radius: 5px;
+    gap: 10px;
+}
+
+.botaoEnviar:hover{
+    background-color: #5b07aa;
+    cursor: pointer;
+}

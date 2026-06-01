@@ -1,0 +1,70 @@
+.defenderBTT > img{
+    height: 25px;
+}
+
+.fugirBTT > img{
+    height: 25px;
+}
+.atacarBTT > img{
+    height: 25px;
+}
+
+.atacarBTT{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    padding: 10px;
+    gap: 10px;
+    border: none;
+    background-color: red;
+    color: black;
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+}
+
+.atacarBTT:hover{
+    background-color: #990000;
+    cursor:pointer;
+}
+
+.defenderBTT{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    padding: 10px;
+    gap: 10px;
+    border: none;
+    background-color: #0055ff;
+    color: black;
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+}
+
+.defenderBTT:hover{
+    background-color: #2a04ff;
+    cursor:pointer;
+}
+
+.fugirBTT{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    padding: 10px;
+    gap: 10px;
+    border: none;
+    background-color: #4ef610c2;
+    color: black;
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+}
+
+.fugirBTT:hover{
+    background-color: #01ab26df;
+    cursor:pointer;
+}
