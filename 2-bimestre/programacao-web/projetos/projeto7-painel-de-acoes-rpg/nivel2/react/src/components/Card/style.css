@@ -1,0 +1,107 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.infos {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 500px;
+    margin-top: 20px;
+}
+
+.container-card {
+    border: solid 1px rgb(148, 146, 146);
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 10px;
+}
+
+.imagem-player {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin-bottom: 10px;
+    border: solid 2px rgb(150, 150, 150);
+    border-radius: 20px;
+}
+
+.acoes {
+  display: flex; 
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px rgb(133, 133, 133);
+    border-radius: 18px;
+}
+
+.botao-atk {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    padding-right: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.botao-atk img {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+.botao-df {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    padding-left: 10px;
+    padding-right: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.botao-df img {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+.botao-fg {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    padding-right: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.botao-fg img {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 30px;
+}

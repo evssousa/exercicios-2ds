@@ -1,0 +1,66 @@
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+     height: 250px;
+    width: 650px;
+    padding: 3px;
+    border: 1px #aeaeae solid;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.formulario h2 {
+    text-align: center;
+}
+
+.info-nome label {
+    padding-right: 20px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.info-nome input {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 400px;
+}
+
+.info-mensagem {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px;
+}
+
+.info-mensagem label {
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+.info-mensagem textarea {
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+
+.botao-enviar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: purple;
+    color: white;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding-right: 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+}
+
+.botao-enviar img {
+    color: white;
+    width: 30px;
+    height: 30px;
+}
