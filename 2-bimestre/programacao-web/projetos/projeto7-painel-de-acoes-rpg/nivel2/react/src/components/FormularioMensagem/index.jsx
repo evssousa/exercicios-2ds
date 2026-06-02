@@ -20,7 +20,7 @@ return (
             foto={Enviar}
             type="submit"
             texto="Enviar mensagem"
-            onClick={() => (alert("Enviando formulário!"))}
+            onClick={() => (alert("Enviando formulário"))}
             ></Botao>
         </form>
     </>
