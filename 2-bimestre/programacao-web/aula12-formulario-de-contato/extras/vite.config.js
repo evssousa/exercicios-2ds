@@ -1,40 +1,11 @@
-// Ferramentas de teste
-import { render, screen } from "@testing-library/react"
-import { describe, test, expect } from "vitest"
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
-// Importando componente
-import Input from "/src/components/Input"
-
-describe("Input", () => {
-
-  // Testa label
-  test("renderiza label", () => {
-
-    render(
-      <Input
-        label="Nome"
-        type="text"
-      />
-    )
-
-    expect(
-      screen.getByText(/nome/i)
-    ).toBeTruthy()
-  })
-
-  // Testa input
-  test("renderiza input", () => {
-
-    render(
-      <Input
-        label="Nome"
-        type="text"
-      />
-    )
-
-    const input = screen.getByRole("textbox")
-
-    expect(input).toBeTruthy()
-  })
-
+export default defineConfig({
+  plugins: [react()],
+  test: {
+    environment: 'jsdom',
+    globals: true,
+    setupFiles: './src/setupTests.js'
+  }
 })
