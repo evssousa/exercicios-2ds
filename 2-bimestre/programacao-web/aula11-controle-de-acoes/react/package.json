@@ -1,5 +1,5 @@
 {
-  "name": "aula12-formulario-de-contato",
+  "name": "aula11-controle-de-acoes",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +12,7 @@
     "test:run": "vitest run"
   },
   "dependencies": {
+    "@testing-library/user-event": "^14.6.1",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
