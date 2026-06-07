@@ -26,3 +26,12 @@ Responda:
 3. Como essa ideia poderia ser testada rapidamente?
 
 Crie sua resposta abaixo:
+
+1. Um problema comum na escola é a desorganização na entrega de tarefas e prazos, fazendo com que alguns alunos esqueçam atividades.
+
+2. Criar um quadro simples de avisos ou lista digital de tarefas da turma, onde os professores colocam as atividades e prazos de forma clara.
+
+3. Testar por uma semana usando:
+
+    * uma folha impressa na sala ou um quadro branco
+    Depois, observar se os alunos passam a esquecer menos as tarefas e pedir feedback deles para melhorar o sistema.

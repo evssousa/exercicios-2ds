@@ -113,3 +113,9 @@ Responda:
 3. O que precisa desenvolver?
 
 Crie sua resposta abaixo:
+
+1. Área da tecnologia
+
+2. Sei programar, aprendo com bastante facilidade as coisas dessa área e me interesso bastante pelas e tenho muita facilidade com computadores
+
+3. Organização

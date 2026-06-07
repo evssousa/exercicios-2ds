@@ -89,3 +89,12 @@ Problema:
 > 
 
 Como você criaria um MVP para resolver esse problema? Escreva abaixo.
+
+Criar uma lista simples de tarefa onde o aluno possa:
+
+    1. escrever as tarefas escolares 
+    2. marcar quando concluir
+
+Não teria login, notificações ou design complexo — apenas o básico funcionando.
+
+Assim já seria possível testar se os alunos realmente usam a lista para não esquecer as tarefas.

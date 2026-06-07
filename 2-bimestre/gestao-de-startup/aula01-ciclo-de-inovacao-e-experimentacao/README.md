@@ -100,5 +100,8 @@ Pergunta:
 
 1. Em que etapa do ciclo eles estão?
 2. Qual será o próximo passo?
-
+    
 Crie sua resposta abaixo:
+
+1.  Eles estão na etapa de Feedback → Melhoria.
+2.  O próximo passo é fazer um novo teste da versão     melhorada do aplicativo, para ver se a interface ficou mais fácil de usar e coletar novas opiniões dos usuários.
