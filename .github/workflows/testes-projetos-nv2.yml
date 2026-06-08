@@ -81,3 +81,14 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  projeto8-rpg:
+    name: projeto8-rpg
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/programacao-web/projetos/projeto8-rpg/nivel2/react
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test

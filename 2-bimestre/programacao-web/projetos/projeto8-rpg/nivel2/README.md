@@ -218,3 +218,5 @@ Total de Personagens: 3
 
 ------------------------------------------------
 ```
+
+OBS: Lembrando que a pasta do projeto deve ter o nome "react".

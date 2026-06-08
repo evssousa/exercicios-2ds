@@ -165,3 +165,5 @@ Heróis Cadastrados
 
 ----------------------------------
 ```
+
+OBS: Dessa vez você deve fazer a instalação do React, juntamente com os arquivos de configurações da pasta Extras! Lembrando que a pasta do projeto deve ter o nome "react".
