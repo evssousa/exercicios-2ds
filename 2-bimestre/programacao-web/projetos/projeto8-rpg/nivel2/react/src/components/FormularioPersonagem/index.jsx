@@ -24,7 +24,7 @@ function enviarPersonagem() {
                     placeholder="Classe do personagem"
                     />
 
-                    <button onClick={}>Cadastrar Personagem</button>
+                    <button onClick={enviarPersonagem}>Cadastrar Personagem</button>
                 </form>
             </>
         )
