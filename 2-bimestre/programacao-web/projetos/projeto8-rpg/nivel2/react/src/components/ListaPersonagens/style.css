@@ -1,0 +1,16 @@
+.visor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+li{
+    text-align: center;
+    margin-top: 10px;
+}

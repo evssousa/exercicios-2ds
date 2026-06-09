@@ -1,0 +1,19 @@
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0;
+    background-color: rgb(255, 60, 60);
+    color: white;
+    margin: 0 790px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.formulario label{
+    font-size: 18px;
+}
+
+input{
+    margin-top: 10px;
+}
