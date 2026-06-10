@@ -83,3 +83,8 @@ Perguntas:
 4. Qual a vantagem do Virtual DOM?
 
 Crie sua resposta abaixo:
+
+1. React é uma biblioteca JavaScript usada para criar interfaces de usuário em aplicações web.
+2. React é uma biblioteca.
+3. Virtual DOM é uma cópia do DOM que fica na memória e é usada para fazer atualizações de forma mais eficiente.
+4. A vantagem do Virtual DOM é que ele atualiza apenas as partes que mudaram na tela, deixando o sistema mais rápido e organizado.
