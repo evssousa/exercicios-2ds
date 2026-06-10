@@ -1,4 +1,4 @@
-import Painel from "./components/Painel"
+import Painel from "./components/Painel/Index"
 
 export default function App() {
   return (
