@@ -132,3 +132,7 @@ Associe:
 3. Site escolar com vários usuários
 
 Crie sua resposta abaixo:
+
+1. Arquitetura Monolítica
+2. Microsserviços
+3. Cliente-Servidor
