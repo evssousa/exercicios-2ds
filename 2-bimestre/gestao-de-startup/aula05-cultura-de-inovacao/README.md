@@ -26,3 +26,7 @@ Responda:
 3. Como essa ideia poderia ser testada rapidamente?
 
 Crie sua resposta abaixo:
+
+1. O problema é que muitos alunos esquecem datas de provas e trabalhos.
+2. Uma ideia simples seria criar um mural digital com avisos e datas importantes.
+3. A ideia poderia ser testada em uma turma por algumas semanas para ver se os alunos passam a esquecer menos os compromissos.

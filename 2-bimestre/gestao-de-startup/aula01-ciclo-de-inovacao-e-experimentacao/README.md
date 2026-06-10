@@ -102,3 +102,6 @@ Pergunta:
 2. Qual será o próximo passo?
 
 Crie sua resposta abaixo:
+
+1. Estão na etapa de melhorar.
+2. O próximo passo é o novo teste.

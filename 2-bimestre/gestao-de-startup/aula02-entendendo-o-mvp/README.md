@@ -89,3 +89,5 @@ Problema:
 > 
 
 Como você criaria um MVP para resolver esse problema? Escreva abaixo.
+
+Eu faria um sistema simples onde o aluno pode anotar suas tarefas e ver o que precisa fazer. Esse sistema mostraria as atividades pendentes para ajudar o aluno a não esquecer.

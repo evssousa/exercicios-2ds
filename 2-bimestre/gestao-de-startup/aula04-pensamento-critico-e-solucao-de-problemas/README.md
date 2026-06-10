@@ -101,3 +101,8 @@ Perguntas:
 4. Como evitar novamente?
 
 Crie sua resposta abaixo:
+
+1. O problema principal é a falta de organização e divisão de tarefas no grupo.
+2. Isso aconteceu porque não houve planejamento nem definição de responsabilidades.
+3. A solução imediata é reunir o grupo e dividir as tarefas entre os membros.
+4. Para evitar novamente, o grupo deve sempre planejar antes e definir quem será responsável por cada parte.

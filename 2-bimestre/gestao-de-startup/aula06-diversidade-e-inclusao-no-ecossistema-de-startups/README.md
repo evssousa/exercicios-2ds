@@ -24,3 +24,7 @@ Responda:
 3. Por que diferentes opiniões podem melhorar uma solução?
 
 Crie sua resposta abaixo:
+
+1. Um grupo pode garantir a participação dando espaço para todos falarem e ouvindo as opiniões de cada um.
+2. O que prejudica a colaboração é a falta de respeito, não ouvir os outros e a falta de comunicação.
+3. Diferentes opiniões podem melhorar uma solução porque trazem ideias novas e pontos de vista diferentes.

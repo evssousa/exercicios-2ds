@@ -113,3 +113,7 @@ Responda:
 3. O que precisa desenvolver?
 
 Crie sua resposta abaixo:
+
+1. Eu tenho mais interesse na área de tecnologia, principalmente em desenvolvimento.
+2. Eu já tenho algumas habilidades como vontade de aprender, curiosidade e gosto por resolver problemas.
+3. Eu preciso desenvolver mais conhecimento técnico, praticar programação e melhorar minha experiência na área.
