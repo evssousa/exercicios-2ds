@@ -4,7 +4,7 @@ export default function App() {
   return (
     <>
     <Painel>
-      <h1>Raffael</h1>
+      <h1>Título teste</h1>
     </Painel>
 
     <Painel>

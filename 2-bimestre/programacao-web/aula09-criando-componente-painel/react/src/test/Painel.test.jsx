@@ -3,7 +3,7 @@ import { render, screen } from "@testing-library/react"
 import { describe, test, expect } from "vitest"
 
 // Importando componente
-import Painel from "/src/components/Painel"
+import Painel from "/src/components/Painel/Index"
 
 describe("Painel", () => {
 
