@@ -1,14 +1,21 @@
-export default function ListaPersonagem(foto, classe) {
+import "./style.css"
 
-
-
-return (
-<>
-    <h1>Lista de Personagens</h1>
-    
-    <ul>
-
-    </ul>
-</>
-)
+export default function ListaPersonagem({ personagens }) {
+    if (!personagens || personagens.length <= 0) {
+        return (
+            <div className="lista">
+            <p>Nenhum personagem cadastrado</p>
+            </div>
+        )
+    } else {
+        return (
+            <div className="lista">
+                <ul>
+                    {personagens.map((personagemCriado) => (
+                        <li>{personagemCriado.nome} - {personagemCriado.classe}</li>
+                    ))}
+                </ul>
+            </div>
+        )
+    }
 }

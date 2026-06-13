@@ -1,31 +1,44 @@
-export default function FormularioPersonagem(nome, setNome, classe, setClasse, ...rest) {
+import { useState, useRef } from "react"
+import "./style.css"
+export default function FormularioPersonagem({ novoPersonagem }) {
+    const [nome, setNome] = useState("")
+    const [classe, setClasse] = useState("")
+    const inputRef1 = useRef(null)
+    const inputRef2 = useRef(null)
 
-function enviarPersonagem() {
-    personagens({
-        nome: {nome},
-        clase: {classe}
-    })
-    }   
-    return (
-            <>
-                <h1>Criador de Personagem</h1>
-                <form {...rest}>
-                    <input 
-                    type="text"
-                    value={nome}
-                    onChange={(e) => setNome(e.target.value)}
-                    placeholder="Nome do personagem"
-                    />
+    function enviarPersonagem(e) {
+        e.preventDefault()
+        const personagem = {
+        nome: nome,
+        classe: classe
+        }
+        novoPersonagem(personagemAnterior => [...personagemAnterior, personagem])
+        inputRef1.current.value = ""
+        inputRef2.current.value = ""
+        inputRef1.current.focus()
 
-                    <input 
-                    type="text"
-                    value={classe}
-                    onChange={(e) => setClasse(e.target.value)}
-                    placeholder="Classe do personagem"
-                    />
-
-                    <button onClick={enviarPersonagem}>Cadastrar Personagem</button>
-                </form>
-            </>
-        )
     }
+    return (
+        <>
+            <h1>Criador de Personagem</h1>
+            <form onSubmit={enviarPersonagem} className="formulario">
+                <label>Nome do personagem</label>
+                <input 
+                type="text"
+                ref={inputRef1}
+                onChange={(e) => setNome(e.target.value)}
+                placeholder="Nome do personagem"
+                />
+
+                <label>Classe do personagem</label>
+                <input 
+                type="text"
+                ref={inputRef2}
+                onChange={(e) => setClasse(e.target.value)}
+                placeholder="Classe do personagem"
+                />
+                <button type="submit">Cadastrar Personagem</button>
+            </form>
+        </>
+    )
+}

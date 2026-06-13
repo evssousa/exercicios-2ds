@@ -1,0 +1,38 @@
+.formulario {
+    background: #1b1b1b;
+    border: 2px solid #8b0000;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(139, 0, 0, 0.3);
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #8b0000;
+    border-radius: 6px;
+    background: #252525;
+    color: white;
+    box-sizing: border-box;
+}
+
+/* Botão */
+button {
+    background: linear-gradient(135deg, #8b0000, #cc0000);
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #cc0000, #ff3333);
+    transform: scale(1.05);
+}
