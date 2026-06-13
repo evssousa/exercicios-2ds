@@ -11,8 +11,8 @@ export default function ListaPersonagem({ personagens }) {
         return (
             <div className="lista">
                 <ul>
-                    {personagens.map((personagemCriado) => (
-                        <li>{personagemCriado.nome} - {personagemCriado.classe}</li>
+                    {personagens.map((personagemCriado, index) => (
+                        <li key={index}>{personagemCriado.nome} - {personagemCriado.classe}</li>
                     ))}
                 </ul>
             </div>

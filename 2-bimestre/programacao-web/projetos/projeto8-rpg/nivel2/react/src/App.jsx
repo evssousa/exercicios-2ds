@@ -1,4 +1,4 @@
-import ListaPersonagem from "./components/ListaPersonagem"
+import ListaPersonagem from "./components/ListaPersonagens"
 import FormularioPersonagem from "./components/FormularioPersonagem"
 import PainelStatus from "./components/PainelStatus"
 import { useState } from "react"
@@ -9,8 +9,9 @@ export default function App() {
     console.log(personagens)
     return (
         <div className="container">
+            <h1>gerenciador de personagens rpg</h1>
             <FormularioPersonagem
-            novoPersonagem={setPersonagens}
+            adicionarPersonagem={setPersonagens}
             />
             <ListaPersonagem
             personagens={personagens}

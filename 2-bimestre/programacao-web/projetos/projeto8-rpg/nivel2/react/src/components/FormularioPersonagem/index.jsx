@@ -1,6 +1,6 @@
 import { useState, useRef } from "react"
 import "./style.css"
-export default function FormularioPersonagem({ novoPersonagem }) {
+export default function FormularioPersonagem({ adicionarPersonagem }) {
     const [nome, setNome] = useState("")
     const [classe, setClasse] = useState("")
     const inputRef1 = useRef(null)
@@ -12,11 +12,12 @@ export default function FormularioPersonagem({ novoPersonagem }) {
         nome: nome,
         classe: classe
         }
-        novoPersonagem(personagemAnterior => [...personagemAnterior, personagem])
+        adicionarPersonagem(personagemAnterior => [...personagemAnterior, personagem])
         inputRef1.current.value = ""
         inputRef2.current.value = ""
         inputRef1.current.focus()
 
+        console.log("Lista atualizada")
     }
     return (
         <>
