@@ -16,7 +16,7 @@ Complete o exercício no tempo estimado.
 # Atividades e Projetos
 
 ### Programação Orientada à Objetos
-- Projeto Pessoal: Desenvolver um sistema com POO em Javascript puro (utilizando prompt-sync), utilizando o conteúdos demonstrados em aula, que resolva um PROBLEMA PESSOAL EQUIPE.
+- Projeto Pessoal: Desenvolver um sistema com POO em Javascript puro (utilizando prompt-sync), utilizando os conteúdos demonstrados em aula, que resolva um PROBLEMA PESSOAL EQUIPE.
 Previsão para 25 à 30-set | Quantidade de Indivíduos: 3 pessoas (5-10 min de apresentação)
 - Prova Bimestral: previsão para final de setembro à começo de outubro
 - ✅ **Projeto 1 - Sistema de Biblioteca**<br>
