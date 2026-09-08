@@ -16,9 +16,9 @@ Complete o exercício no tempo estimado.
 # Atividades e Projetos
 
 ### Programação Orientada à Objetos
-- Projeto Pessoal: -.
-Previsão para - | Quantidade de Indivíduos: -
-- Prova Bimestral: previsão para -
+- Projeto Pessoal: Desenvolver um sistema com POO em Javascript puro (utilizando prompt-sync), utilizando o conteúdos demonstrados em aula, que resolva um PROBLEMA PESSOAL EQUIPE.
+Previsão para 25 à 30-set | Quantidade de Indivíduos: 3 pessoas (5-10 min de apresentação)
+- Prova Bimestral: previsão para final de setembro à começo de outubro
 - ✅ **Projeto 1 - Sistema de Biblioteca**<br>
 Prazo de Entrega 1: 28-ago (2,5 pt) | Prazo de Entrega 2: 30-ago (1,5 pt)
 - ⚠️ **Projeto 2 - Sistema de Gestão de Funcionários**<br>
@@ -29,10 +29,10 @@ Prazo de Entrega 1: 28-ago (2,5 pt) | Prazo de Entrega 2: 1-set (1,5 pt)
 Aguarde...
 ```
 
-### Gestão de Startup I
-- Projeto Pessoal: -
-Previsão para - | Quantidade de Indivíduos: -
-- Prova Bimestral: previsão para -
+### Gestão de Startup II
+- Projeto Pessoal: Continuação do desenvolvimento da empresa no Instagram, agora com mínimo de 20 posts e 100 seguidores. Além disso, o grupo deve apresentar um caderno de campo sobre o desenvolvimento do projeto, físico e personalizado, juntamente com a apresentação do produto que sendo apresentado no Instragram.
+Previsão para 21-set | Quantidade de Indivíduos: até 5 pessoas (5-10 min de apresentação)
+- Prova Bimestral: previsão para final de setembro à começo de outubro
 - ⚠️ **Projeto 1 - Planejamento de um Produto**<br>
 Prazo de Entrega 1: 30-ago (2,5 pt) | Prazo de Entrega 2: 31-ago (1,5 pt)
 
