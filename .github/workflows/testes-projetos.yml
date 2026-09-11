@@ -5,23 +5,34 @@ on:
   workflow_dispatch:
 
 jobs:
-  projeto1-sistema-de-biblioteca:
-    name: projeto1-sistema-de-biblioteca
+  projeto1:
+    name: projeto1
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: 3-bimestre/orientacao-a-objetos/projetos/projeto1-sistema-de-biblioteca
+        working-directory: 3-bimestre/orientacao-a-objetos/projetos/projeto1
     steps:
       - uses: actions/checkout@v4
       - run: npm install
       - run: npm test
 
-  projeto2-sistema-de-gestao-de-funcionarios:
-    name: projeto2-sistema-de-gestao-de-funcionarios
+  projeto2:
+    name: projeto2
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: 3-bimestre/orientacao-a-objetos/projetos/projeto2-sistema-de-gestao-de-funcionarios
+        working-directory: 3-bimestre/orientacao-a-objetos/projetos/projeto2
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install
+      - run: npm test
+
+  projeto3:
+    name: projeto3
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 3-bimestre/orientacao-a-objetos/projetos/projeto3
     steps:
       - uses: actions/checkout@v4
       - run: npm install

@@ -1,0 +1,16 @@
+{
+  "name": "aula16",
+  "version": "1.0.0",
+  "description": "- Criar classes derivadas de outras classes. - Reutilizar métodos herdados. - Adicionar comportamentos específicos em classes filhas. - Utilizar `super` para acessar funcionalidades da classe pai. - Entender a diferença entre herdar e substituir um comportamento. - Construir hierarquias simples de classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
