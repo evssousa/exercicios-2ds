@@ -23,6 +23,8 @@ Previsão para 25 à 30-set | Quantidade de Indivíduos: 3 pessoas (5-10 min de 
 Prazo de Entrega 1: 28-ago (2,5 pt) | Prazo de Entrega 2: 30-ago (1,5 pt)
 - ✅ **Projeto 2 - Sistema de Gestão de Funcionários**<br>
 Prazo de Entrega 1: 28-ago (2,5 pt) | Prazo de Entrega 2: 1-set (1,5 pt)
+- ✅ **Projeto 3 - Sistema de Notificações**<br>
+Prazo de Entrega 1: 15-set (2,5 pt) | Prazo de Entrega 2: 17-set (1,5 pt)
 
 #### | CONTEÚDOS PARA A PROVA
 ```
