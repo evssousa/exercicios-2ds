@@ -1,0 +1,16 @@
+{
+  "name": "projeto3v2-aristides66",
+  "version": "1.0.0",
+  "description": "Sistema de emissão de alvarás — projeto de POO (Factory)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Aristides66",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}

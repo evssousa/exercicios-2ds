@@ -1,0 +1,49 @@
+name: Correção do Projeto 3V2
+
+on:
+  push:
+    paths:
+      - "3-bimestre/orientacao-a-objetos/projetos/projeto3v2/**"
+
+jobs:
+  correcao:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Identificar aluno
+        run: |
+          ALUNO="${{ github.actor }}"
+
+          echo "Aluno identificado: $ALUNO"
+          echo "Pasta que será testada:"
+          echo "3-bimestre/orientacao-a-objetos/projetos/projeto3v2/$ALUNO"
+
+      - name: Verificar pasta do aluno
+        run: |
+          ALUNO="${{ github.actor }}"
+          PASTA="3-bimestre/orientacao-a-objetos/projetos/projeto3v2/$ALUNO"
+
+          if [ -d "$PASTA" ]; then
+            echo "✅ Pasta encontrada!"
+            echo "Testando: $PASTA"
+          else
+            echo "❌ Pasta do aluno não encontrada!"
+            echo "Esperado: $PASTA"
+            exit 1
+          fi
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Instalar dependências
+        working-directory: 3-bimestre/orientacao-a-objetos/projetos/projeto3v2/${{ github.actor }}
+        run: npm install
+
+      - name: Rodar testes
+        working-directory: 3-bimestre/orientacao-a-objetos/projetos/projeto3v2/${{ github.actor }}
+        run: npm test
