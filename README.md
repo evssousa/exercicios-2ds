@@ -35,6 +35,8 @@ Previsão para 21-set | Quantidade de Indivíduos: até 5 pessoas (5-10 min de a
 - Prova Bimestral: previsão para final de setembro à começo de outubro
 - ✅ **Projeto 1 - Planejamento de um Produto**<br>
 Prazo de Entrega 1: 30-ago (2,5 pt) | Prazo de Entrega 2: 31-ago (1,5 pt)
+- ⚠️ **Projeto 2 - Criando uma loja virtual comercializável**<br>
+Prazo de Entrega 1: 18-set (2,5 pt) | Prazo de Entrega 2: 20-set (1,5 pt)
 
 #### | CONTEÚDOS PARA A PROVA
 ```
