@@ -1,0 +1,50 @@
+name: Corretor de Exercícios — 4º Bimestre
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  # Descobre quais aulas já foram liberadas no repositório.
+  # Enquanto uma aula está no .gitignore, a pasta não existe aqui e nenhum job é
+  # criado para ela — em vez de um job vermelho por pasta inexistente.
+  descobrir-aulas:
+    name: 4bim-poo-descobrir-aulas
+    runs-on: ubuntu-latest
+    outputs:
+      aulas: ${{ steps.listar.outputs.aulas }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Listar aulas existentes
+        id: listar
+        run: |
+          BASE="4-bimestre/orientacao-a-objetos"
+
+          if [ -d "$BASE" ]; then
+            AULAS=$(ls -d "$BASE"/aula*/ 2>/dev/null | xargs -r -n1 basename | jq -R . | jq -sc .)
+          else
+            AULAS="[]"
+          fi
+
+          AULAS=${AULAS:-[]}
+
+          echo "Aulas liberadas: $AULAS"
+          echo "aulas=$AULAS" >> "$GITHUB_OUTPUT"
+
+  exercicios:
+    name: 4bim-poo-${{ matrix.aula }}
+    needs: descobrir-aulas
+    if: needs.descobrir-aulas.outputs.aulas != '[]'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        aula: ${{ fromJSON(needs.descobrir-aulas.outputs.aulas) }}
+    defaults:
+      run:
+        working-directory: 4-bimestre/orientacao-a-objetos/${{ matrix.aula }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install
+      - run: npm test

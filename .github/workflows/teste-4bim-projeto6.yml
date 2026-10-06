@@ -1,0 +1,49 @@
+name: Correção do Projeto 6 — 4º Bimestre
+
+on:
+  push:
+    paths:
+      - "4-bimestre/orientacao-a-objetos/projetos/projeto6/**"
+
+jobs:
+  correcao:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Identificar aluno
+        run: |
+          ALUNO="${{ github.actor }}"
+
+          echo "Aluno identificado: $ALUNO"
+          echo "Pasta que será testada:"
+          echo "4-bimestre/orientacao-a-objetos/projetos/projeto6/$ALUNO"
+
+      - name: Verificar pasta do aluno
+        run: |
+          ALUNO="${{ github.actor }}"
+          PASTA="4-bimestre/orientacao-a-objetos/projetos/projeto6/$ALUNO"
+
+          if [ -d "$PASTA" ]; then
+            echo "✅ Pasta encontrada!"
+            echo "Testando: $PASTA"
+          else
+            echo "❌ Pasta do aluno não encontrada!"
+            echo "Esperado: $PASTA"
+            exit 1
+          fi
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Instalar dependências
+        working-directory: 4-bimestre/orientacao-a-objetos/projetos/projeto6/${{ github.actor }}
+        run: npm install
+
+      - name: Rodar testes
+        working-directory: 4-bimestre/orientacao-a-objetos/projetos/projeto6/${{ github.actor }}
+        run: npm test
