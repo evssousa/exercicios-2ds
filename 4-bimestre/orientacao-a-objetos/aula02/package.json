@@ -1,0 +1,16 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "Usar o modo watch do Node. Entender variáveis de ambiente e usar o process.env. Criar um servidor HTTP com o módulo http. Responder a uma requisição com status e corpo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
