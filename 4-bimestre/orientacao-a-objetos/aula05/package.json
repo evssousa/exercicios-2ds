@@ -1,0 +1,20 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "Entender o que é o Express. Instalar e configurar o Express num projeto. Criar rotas com app.get e app.post. Responder em JSON com res.json e definir o status da resposta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.1.4"
+  }
+}

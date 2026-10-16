@@ -1,0 +1,20 @@
+{
+  "name": "aula06",
+  "version": "1.0.0",
+  "description": "Entender por que um arquivo único com todas as rotas não escala. Criar um express.Router() e separar rotas em arquivos. Organizar a pasta routes/. Montar um router principal e conectá-lo com app.use().",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.1.4"
+  }
+}
