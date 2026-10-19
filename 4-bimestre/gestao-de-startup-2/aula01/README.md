@@ -208,9 +208,31 @@ _
 
 # 🧩 Atividade Rápida
 
-Em dupla, escolham um produto digital que vocês usam todo dia (rede social, app de música, jogo, app da escola).
+Individual ou em dupla, **usando o GitHub Copilot**, crie uma página de NPS para uma ideia de app e colete notas de verdade dos colegas.
 
-1. Escrevam **uma métrica de produto** e **uma métrica de código** que fariam sentido para esse produto.
-2. Para cada uma, completem a frase: *"Se este número piorar, a equipe vai ______."*
-3. Dê uma nota de 0 a 10 para esse produto e diga se **você** é promotor, neutro ou detrator.
-4. Aponte **uma métrica de vaidade** que esse produto provavelmente adora divulgar.
+> ⏱️ 15 minutos — 5 para construir, 10 para coletar.
+
+**1. Construa (5 min)**
+
+Escolha uma ideia de app (troca de livros, cardápio da cantina, agenda de estudos...).
+
+Exemplo de prompt:
+
+```
+Crie uma página HTML com JavaScript puro que apresenta o app
+[NOME DO APP] em uma frase e pergunta: "De 0 a 10, quanto você
+recomendaria este app para um amigo?". Salve as respostas no
+localStorage e mostre a quantidade de promotores, neutros, detratores
+e o NPS final.
+```
+
+Confira: digite as 20 notas do exemplo da aula. O resultado precisa ser **NPS 35**. Depois, limpe as notas de teste.
+
+**2. Colete (10 min)**
+
+Deixe a página aberta no seu computador. Visite os colegas ao lado e dê nota nos apps deles; peça que eles deem nota no seu. Tente conseguir **pelo menos 5 respostas**.
+
+**3. Responda**
+
+- Quantas respostas e qual o NPS?
+- Complete: *"Se este NPS cair, eu vou ______."*

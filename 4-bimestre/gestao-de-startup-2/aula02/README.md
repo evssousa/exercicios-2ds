@@ -186,9 +186,30 @@ _
 
 # 🧩 Atividade Rápida
 
-Em equipe, usando o produto de vocês (ou um produto que todos conheçam):
+Individual ou em dupla, **usando o GitHub Copilot**, transforme a página da aula 1 num **funil AARRR** e descubra onde o app perde gente.
 
-1. Desenhem o **funil AARRR** com um número estimado em cada etapa — pode ser estimativa, mas precisa ser número.
-2. Calculem a **taxa de conversão** entre as duas primeiras etapas e identifiquem **a maior queda** do funil.
-3. Simulem um **churn mensal** e calculem quantos usuários restariam depois de 3 meses sem nenhuma entrada nova.
-4. Façam uma **decisão coletiva** de 5 minutos: olhando a maior queda, escolham UMA ação. Registrem em três linhas — *decisão*, *motivo (com o número)*, *responsável*.
+> ⏱️ 15 minutos — 5 para construir, 10 para coletar.
+>
+> Se não fez a aula 1, comece uma página nova com uma ideia de app.
+
+**1. Construa (5 min)**
+
+Exemplo de prompt:
+
+```
+Adicione a esta página um funil AARRR salvo no localStorage: abrir a
+página (aquisição), clicar em "Experimentar" (ativação), clicar em
+"Quero usar de novo" (retenção), clicar em "Eu pagaria por isso"
+(receita) e dar nota 9 ou 10 no NPS (recomendação). Mostre a quantidade
+de cada etapa, a taxa de conversão entre elas e destaque em vermelho a
+etapa com a maior queda percentual.
+```
+
+**2. Colete (10 min)**
+
+Troque de computador com os colegas ao lado. Cada um segue o funil do outro **só até onde realmente tiver interesse** — clicar em tudo por educação estraga o dado.
+
+**3. Decida**
+
+- **Decisão:** o que você mudaria no app.
+- **Motivo:** a maior queda, com o número (ex.: *"só 2 de 6 pessoas clicaram em Experimentar"*).
